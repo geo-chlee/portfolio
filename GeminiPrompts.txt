@@ -1,1 +1,2 @@
 https://gemini.google.com/share/fb6109207d0d
+https://gemini.google.com/share/8a06b5187725  # Change code due to Lucide removed commercial icon. So edit code lines regarding this.
